@@ -23,6 +23,7 @@
 ## 🎓 Programming Languages Learning:
 ![GNU Bash](https://img.shields.io/badge/GNUBash-black.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=blue)
-
+<!--
 ## 📊 Stats:
 ![Luciano Griffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=gruvbox)
+-->
