@@ -22,9 +22,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?&style=for-the-badge&logo=mysql&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
 ## 🎓 Programming Languages Learning:
-![GNU Bash](https://img.shields.io/badge/GNUBash-black.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
-![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=blue)
-<!--
+![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=python)
+![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ## 📊 Stats:
+<!--
 ![Luciano Griffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=gruvbox)
 -->
+![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianogriffa&theme=gruvbox)
+<!--![GitHub Views](https://img.shields.io/github/views/lucianogriffa/lucianogriffa?color=green&style=flat-square)-->
+
