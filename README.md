@@ -30,4 +30,3 @@
 -->
 ![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianogriffa&theme=gruvbox)
 <!--![GitHub Views](https://img.shields.io/github/views/lucianogriffa/lucianogriffa?color=green&style=flat-square)-->
-
