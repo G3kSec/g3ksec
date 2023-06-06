@@ -1,4 +1,4 @@
-# Hey 👋, I'm Luciano
+# Hey 👋, I'm G3kSec
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack Developer.**
 - **🤔 My interests in technology are web, artificial intelligence and cybersecurity.**
@@ -28,7 +28,7 @@
 <!--
 ![Luciano Griffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=gruvbox)
 -->
-![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianogriffa&theme=gruvbox)
+![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianogriffa&theme=gruvbox)
 
 <!--
 ![GitHub Views](https://komarev.com/ghpvc/?username=lucianogriffa&style=for-the-badge)
