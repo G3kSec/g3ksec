@@ -21,8 +21,8 @@
 ![ExpressJs](https://img.shields.io/badge/express-black.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?&style=for-the-badge&logo=mysql&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
-## 🎓 Programming Languages Learning:
 ![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=python)
+## 🎓 Programming Languages Learning:
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ## 📊 Stats:
 <!--
