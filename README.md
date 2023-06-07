@@ -28,7 +28,7 @@
 <!--
 ![Luciano Griffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=gruvbox)
 -->
-![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianogriffa&theme=gruvbox)
+![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=gruvbox)
 
 <!--
 ![GitHub Views](https://komarev.com/ghpvc/?username=lucianogriffa&style=for-the-badge)
