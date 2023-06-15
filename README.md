@@ -32,7 +32,7 @@
 ![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=gruvbox)
 
 <!--
-![GitHub Views](https://komarev.com/ghpvc/?username=lucianogriffa&style=for-the-badge)
+![GitHub Views](https://komarev.com/ghpvc/?username=G3kSec&style=for-the-badge)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g3ksec&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
