@@ -26,14 +26,17 @@
 ## 🎓 Programming Languages Learning:
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ## 📊 Stats:
-<!--
-![G3ksec's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3kSec&show_icons=true&theme=gruvbox)
--->
 ![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=gruvbox)
 <!--
+![G3ksec's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3kSec&show_icons=true&theme=gruvbox)
 ![GitHub Views](https://komarev.com/ghpvc/?username=G3kSec&style=for-the-badge)
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g3ksec&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
-
 -->
+```
+██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
+██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚════██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝
+██████╔╝ ╚████╔╝     ██║  ███╗ █████╔╝█████╔╝ ███████╗█████╗  ██║     
+██╔══██╗  ╚██╔╝      ██║   ██║ ╚═══██╗██╔═██╗ ╚════██║██╔══╝  ██║     
+██████╔╝   ██║       ╚██████╔╝██████╔╝██║  ██╗███████║███████╗╚██████╗
+╚═════╝    ╚═╝        ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
+```
