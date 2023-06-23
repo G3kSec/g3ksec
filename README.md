@@ -8,6 +8,7 @@
 ## 🔥 Programming Languages and Tools:
 ![Windows](https://img.shields.io/badge/windows-black.svg?&style=for-the-badge&logo=windows&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux)
+![Debian](https://img.shields.io/badge/Debian-black.svg?&style=for-the-badge&logo=debian&logoColor=red)
 ![VSCode](https://img.shields.io/badge/vscode-black.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![GIT](https://img.shields.io/badge/git-black.svg?&style=for-the-badge&logo=git&logoColor=orange)
 ![Expo](https://img.shields.io/badge/expo-black.svg?&style=for-the-badge&logo=expo&logoColor=white)
