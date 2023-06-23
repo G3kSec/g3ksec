@@ -1,4 +1,4 @@
-# Hey 👋, I'm G3kSec
+# Hey 👋, I'm Luciano Griffa (Aka. G3kSec)
 
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack Developer.**
