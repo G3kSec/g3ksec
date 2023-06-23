@@ -1,3 +1,5 @@
+![head](https://pbs.twimg.com/profile_banners/1237863390518734848/1684710764/1500x500)
+
 # Hey 👋, I'm Luciano Griffa (Aka. G3kSec)
 
 ## 😀 Talking about Personal Stuffs:
