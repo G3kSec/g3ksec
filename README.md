@@ -1,9 +1,9 @@
 ![head](https://pbs.twimg.com/profile_banners/1237863390518734848/1684710764/1500x500)
 
 # Hey 👋, I'm Luciano Griffa
-[![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://g3ksec.github.io/)
+[![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://lucianogriffa.github.io/)
 [![YouTube](https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEa8Ehk3sLSDG6K8aZkZRLw)
-<!-- [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)-->
+<!-- [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Luciano Griffa)-->
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 
 ## 😀 Talking about Personal Stuffs:
@@ -33,17 +33,17 @@
 ## 🎓 Programming Languages Learning:
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ## 📊 Stats:
-![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=gruvbox)
+![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianogriffa&theme=gruvbox)
 <!--
-![G3ksec's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3kSec&show_icons=true&theme=gruvbox)
-![GitHub Views](https://komarev.com/ghpvc/?username=G3kSec&style=for-the-badge)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=g3ksec&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
+![Luciano Griffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogriffa&show_icons=true&theme=gruvbox)
+![GitHub Views](https://komarev.com/ghpvc/?username=lucianogriffa&style=for-the-badge)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucianogriffa&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
 -->
 ```
-██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
-██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚════██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝
-██████╔╝ ╚████╔╝     ██║  ███╗ █████╔╝█████╔╝ ███████╗█████╗  ██║     
-██╔══██╗  ╚██╔╝      ██║   ██║ ╚═══██╗██╔═██╗ ╚════██║██╔══╝  ██║     
-██████╔╝   ██║       ╚██████╔╝██████╔╝██║  ██╗███████║███████╗╚██████╗
-╚═════╝    ╚═╝        ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
+██╗     ██╗   ██╗ ██████╗██╗ █████╗ ███╗   ██╗ ██████╗      ██████╗ ██████╗ ██╗███████╗███████╗ █████╗ 
+██║     ██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗    ██╔════╝ ██╔══██╗██║██╔════╝██╔════╝██╔══██╗
+██║     ██║   ██║██║     ██║███████║██╔██╗ ██║██║   ██║    ██║  ███╗██████╔╝██║█████╗  █████╗  ███████║
+██║     ██║   ██║██║     ██║██╔══██║██║╚██╗██║██║   ██║    ██║   ██║██╔══██╗██║██╔══╝  ██╔══╝  ██╔══██║
+███████╗╚██████╔╝╚██████╗██║██║  ██║██║ ╚████║╚██████╔╝    ╚██████╔╝██║  ██║██║██║     ██║     ██║  ██║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝      ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝
 ```
