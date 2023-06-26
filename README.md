@@ -32,7 +32,7 @@
 ## 🎓 Programming Languages Learning:
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 ## 📊 Stats:
-![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g3ksec&theme=gruvbox)
+![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=gruvbox)
 <!--
 ![G3kSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3ksec&show_icons=true&theme=gruvbox)
 ![GitHub Views](https://komarev.com/ghpvc/?username=g3ksec&style=for-the-badge)
