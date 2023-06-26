@@ -37,7 +37,7 @@
 <!--
 ![G3kSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=g3ksec&show_icons=true&theme=gruvbox)
 ![GitHub Views](https://komarev.com/ghpvc/?username=g3ksec&style=for-the-badge)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucianogriffa&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G3kSec&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
 -->
 ```
 
