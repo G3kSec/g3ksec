@@ -8,7 +8,7 @@
 
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack Developer.**
-- **🤔 My interests in technology are web, artificial intelligence and cybersecurity.**
+- **🤔 My interests in technology are web, mobile and cybersecurity.**
 - **🎸 My hobbies are sports and listening to music.**
 - **⚔️ Right now, I'm making the transition from Full Stack Developer ▶️ Pentester in Cybersecurity.**
 ## 🔥 Programming Languages and Tools:
