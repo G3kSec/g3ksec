@@ -10,7 +10,6 @@
 - **💻 I'm Full Stack Developer.**
 - **🤔 My interests in technology are web, mobile and cybersecurity.**
 - **🎸 My hobbies are sports and listening to music.**
-- **⚔️ Right now, I'm making the transition from Full Stack Developer ▶️ Pentester in Cybersecurity.**
 ## 🔥 Programming Languages and Tools:
 ![Windows](https://img.shields.io/badge/windows-black.svg?&style=for-the-badge&logo=windows&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux)
