@@ -3,7 +3,7 @@
 # Hey 👋, I'm Luciano Griffa
 [![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://g3ksec.github.io/)
 [![YouTube](https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEa8Ehk3sLSDG6K8aZkZRLw)
-[![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)
+<!-- [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)-->
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 
 ## 😀 Talking about Personal Stuffs:
