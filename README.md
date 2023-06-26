@@ -1,10 +1,10 @@
 ![head](https://pbs.twimg.com/profile_banners/1237863390518734848/1684710764/1500x500)
 
 # Hey 👋, I'm Luciano Griffa (Aka. G3kSec)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 [![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://G3kSec.github.io/)
 [![YouTube](https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@G3kSec)
 [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 [![HTB](https://img.shields.io/badge/hack_the_box-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack Developer.**
