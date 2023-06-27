@@ -1,5 +1,5 @@
-![head](https://pbs.twimg.com/profile_banners/1237863390518734848/1684710764/1500x500)
-
+<!--![head](https://pbs.twimg.com/profile_banners/1237863390518734848/1684710764/1500x500)-->
+![](https://media.giphy.com/media/5tdpB5x3FzD3iNcLgh/giphy.gif)
 # Hey 👋, I'm Luciano Griffa (Aka. G3kSec)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 [![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://G3kSec.github.io/)
