@@ -29,8 +29,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?&style=for-the-badge&logo=mysql&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?&style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Python](https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=python)
-## 🎓 Programming Languages Learning:
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
+<!-- ## 🎓 Programming Languages Learning:-->
 ## 📊 Stats:
 ![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=gruvbox)
 <!--
