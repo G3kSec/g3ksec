@@ -32,9 +32,11 @@
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 <!-- ## 🎓 Programming Languages Learning:-->
 ## 📊 Stats:
-![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucianogriffa&theme=transparent&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucianogriffa&theme=transparent&utcOffset=3)
+![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=transparent)
 <!--
-![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=gruvbox)
+![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=blue_green)
 ![GitHub Views](https://komarev.com/ghpvc/?username=LucianoGriffa&style=for-the-badge)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=blue_green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
 -->
