@@ -33,9 +33,9 @@
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 <!-- ## 🎓 Programming Languages Learning:-->
 ## 📊 Stats:
+![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G3kSec&theme=transparent&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G3kSec&theme=transparent&utcOffset=3)
-![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=transparent)
 <!--
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3kSec&show_icons=true&theme=blue_green)
 ![GitHub Views](https://komarev.com/ghpvc/?username=G3kSec&style=for-the-badge)
