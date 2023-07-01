@@ -3,8 +3,8 @@
 # Hey 👋, I'm Luciano Griffa (Aka. G3kSec)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 [![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://LucianoGriffa.github.io/)
-[![YouTube](https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucianoGriffa_)
-[![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucianogriffa_)
+[![YouTube](https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@G3kSec)
+[![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)
 [![HTB](https://img.shields.io/badge/hack_the_box-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack Developer.**
@@ -33,11 +33,11 @@
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 <!-- ## 🎓 Programming Languages Learning:-->
 ## 📊 Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucianogriffa&theme=transparent&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucianogriffa&theme=transparent&utcOffset=3)
-![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G3kSec&theme=transparent&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G3kSec&theme=transparent&utcOffset=3)
+![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=transparent)
 <!--
-![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoGriffa&show_icons=true&theme=blue_green)
-![GitHub Views](https://komarev.com/ghpvc/?username=LucianoGriffa&style=for-the-badge)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucianoGriffa&theme=blue_green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
+![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3kSec&show_icons=true&theme=blue_green)
+![GitHub Views](https://komarev.com/ghpvc/?username=G3kSec&style=for-the-badge)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G3kSec&theme=blue_green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
 -->
