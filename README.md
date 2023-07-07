@@ -1,5 +1,5 @@
-![head](https://uploads.jovemnerd.com.br/wp-content/uploads/2017/08/mr-robot.png)
-
+<!--![head](https://uploads.jovemnerd.com.br/wp-content/uploads/2017/08/mr-robot.png)
+-->
 # Hey 👋, I'm Luciano Griffa (Aka. G3kSec)
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 [![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://g3ksec.github.io/)
