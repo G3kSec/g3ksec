@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)
 [![HTB](https://img.shields.io/badge/hack_the_box-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
 ## 😀 Talking about Personal Stuffs:
-- **💻 I'm Full Stack Developer.**
+- **💻 I'm Full Stack.**
 - **🔴 Cybersecurity Student.**
 - **🤔 My interests in technology are web, mobile and cybersecurity.**
 - **🎸 My hobbies are sports and listening to music.**
