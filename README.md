@@ -36,7 +36,6 @@
 ![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G3kSec&theme=transparent&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G3kSec&theme=transparent&utcOffset=3)
-<!--
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3kSec&show_icons=true&theme=blue_green)
 ![GitHub Views](https://komarev.com/ghpvc/?username=G3kSec&style=for-the-badge)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G3kSec&theme=blue_green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)4
