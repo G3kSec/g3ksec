@@ -9,7 +9,7 @@
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack.**
 - **🔴 Cybersecurity Student.**
-- **🤔 My interests in technology are web, mobile and cybersecurity.**
+- **🤔 My interests in technology are web and cybersecurity.**
 - **🎸 My hobbies are sports and listening to music.**
 ## 🔥 Programming Languages and Tools:
 ![Windows](https://img.shields.io/badge/windows-black.svg?&style=for-the-badge&logo=windows&logoColor=blue)
