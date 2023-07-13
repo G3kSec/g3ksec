@@ -1,14 +1,11 @@
 <!--![head](https://uploads.jovemnerd.com.br/wp-content/uploads/2017/08/mr-robot.png)
 -->
-# Hey 👋, I'm Luciano Griffa (Aka. G3kSec)
+# Hey 👋, I'm Luciano Griffa
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
 [![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://g3ksec.github.io/)
-[![YouTube](https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@G3kSec)
 [![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)
-[![HTB](https://img.shields.io/badge/hack_the_box-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1525469)
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack.**
-- **🔴 Cybersecurity Student.**
 - **🤔 My interests in technology are web and cybersecurity.**
 - **🎸 My hobbies are sports and listening to music.**
 ## 🔥 Programming Languages and Tools:
