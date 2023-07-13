@@ -2,8 +2,7 @@
 -->
 # Hey 👋, I'm Luciano Griffa
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogriffa/)
-[![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://g3ksec.github.io/)
-[![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/G3kSec)
+[![Blog](https://img.shields.io/badge/blog-orange.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://lucianogriffa.github.io/)
 ## 😀 Talking about Personal Stuffs:
 - **💻 I'm Full Stack.**
 - **🤔 My interests in technology are web and cybersecurity.**
@@ -30,9 +29,9 @@
 ![GNUBash](https://img.shields.io/badge/gnubash-black.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
 <!-- ## 🎓 Programming Languages Learning:-->
 ## 📊 Stats:
-![G3kSec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G3kSec&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G3kSec&theme=transparent&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G3kSec&theme=transparent&utcOffset=3)
+![Luciano Griffa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucianoGriffa&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucianoGriffa&theme=transparent&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucianoGriffa&theme=transparent&utcOffset=3)
 <!--
 ![LucianoGriffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3kSec&show_icons=true&theme=blue_green)
 ![GitHub Views](https://komarev.com/ghpvc/?username=G3kSec&style=for-the-badge)
