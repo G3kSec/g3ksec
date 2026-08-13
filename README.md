@@ -8,8 +8,9 @@ Bug hunter. I find and report security vulnerabilities in web applications and A
 
 [![0xHashFavicon](https://github-stats-extended.vercel.app/api/pin/?username=G3kSec&repo=0xHashFavicon&theme=github_dark&hide_border=true)](https://github.com/G3kSec/0xHashFavicon)
 [![0xBugLetter](https://github-stats-extended.vercel.app/api/pin/?username=G3kSec&repo=0xBugLetter&theme=github_dark&hide_border=true)](https://github.com/G3kSec/0xBugLetter)
+[![0xBugLabs](https://github-stats-extended.vercel.app/api/pin/?username=G3kSec&repo=0xBugLabs&theme=github_dark&hide_border=true)](https://github.com/G3kSec/0xBugLabs)
 
-[0xHashFavicon](https://0xhashfavicon.g3ksec.xyz/) · [0xBugLetter](https://0xbugletter.g3ksec.xyz/)
+[0xHashFavicon](https://0xhashfavicon.g3ksec.xyz/) · [0xBugLetter](https://0xbugletter.g3ksec.xyz/) · [0xBugLabs](https://0xbuglabs.g3ksec.xyz/)
 
 ---
 
