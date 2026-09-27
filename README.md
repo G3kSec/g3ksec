@@ -1,11 +1,11 @@
 <img width="736" height="237" alt="banner_linkedin" src="https://github.com/user-attachments/assets/8c7c0cb8-1103-4986-bf3e-16ba9c9bb657" />
 
 
-### Luciano Griffa — G3kSec
+### G3kSec
 
 Bug hunter. I find and report security vulnerabilities in web applications and APIs.
 
-[HackerOne](https://hackerone.com/g3ksec) · [LinkedIn](https://www.linkedin.com/in/lucianogriffa) · [Portfolio](https://g3ksec.xyz)
+[HackerOne](https://hackerone.com/g3ksec) · [Portfolio](https://g3ksec.xyz)
 
 ---
 <!--
